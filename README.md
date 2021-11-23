@@ -1,0 +1,1 @@
+# nodejs-aws-parameter-to-env
